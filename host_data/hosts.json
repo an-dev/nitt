@@ -1,0 +1,2114 @@
+{
+    "hosts": [
+        {
+            "url": "https://nitter.privacydev.net",
+            "domain": "nitter.privacydev.net",
+            "points": 77,
+            "rss": true,
+            "recent_pings": [
+                18,
+                20,
+                19,
+                19,
+                20,
+                20,
+                20,
+                21,
+                19,
+                20,
+                654,
+                18
+            ],
+            "ping_max": 654,
+            "ping_min": 18,
+            "ping_avg": 72,
+            "version": "2024.04.07-7350155",
+            "version_url": "https://github.com/zedeus/nitter/commit/7350155",
+            "healthy": true,
+            "last_healthy": "2024-05-30T21:02:49Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": true,
+            "country": "\ud83c\uddeb\ud83c\uddf7",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    true
+                ],
+                [
+                    "2024.05.30 16:00",
+                    true
+                ],
+                [
+                    "2024.05.30 16:15",
+                    true
+                ],
+                [
+                    "2024.05.30 16:30",
+                    true
+                ],
+                [
+                    "2024.05.30 16:45",
+                    true
+                ],
+                [
+                    "2024.05.30 17:01",
+                    true
+                ],
+                [
+                    "2024.05.30 17:16",
+                    true
+                ],
+                [
+                    "2024.05.30 17:31",
+                    true
+                ],
+                [
+                    "2024.05.30 17:46",
+                    true
+                ],
+                [
+                    "2024.05.30 18:01",
+                    true
+                ],
+                [
+                    "2024.05.30 18:16",
+                    true
+                ],
+                [
+                    "2024.05.30 18:31",
+                    true
+                ],
+                [
+                    "2024.05.30 18:46",
+                    true
+                ],
+                [
+                    "2024.05.30 19:01",
+                    true
+                ],
+                [
+                    "2024.05.30 19:17",
+                    true
+                ],
+                [
+                    "2024.05.30 19:32",
+                    true
+                ],
+                [
+                    "2024.05.30 19:47",
+                    true
+                ],
+                [
+                    "2024.05.30 20:02",
+                    true
+                ],
+                [
+                    "2024.05.30 20:17",
+                    true
+                ],
+                [
+                    "2024.05.30 20:32",
+                    true
+                ],
+                [
+                    "2024.05.30 20:47",
+                    true
+                ],
+                [
+                    "2024.05.30 21:02",
+                    true
+                ]
+            ],
+            "healthy_percentage_overall": 93,
+            "connectivity": "IPv4",
+            "__show_last_seen": false
+        },
+        {
+            "url": "https://nitter.poast.org",
+            "domain": "nitter.poast.org",
+            "points": 61,
+            "rss": true,
+            "recent_pings": [
+                565,
+                779,
+                591,
+                829,
+                956,
+                876,
+                579,
+                534,
+                8089,
+                2663,
+                588,
+                635
+            ],
+            "ping_max": 8089,
+            "ping_min": 534,
+            "ping_avg": 1473,
+            "version": "2024.02.26-c6edec0",
+            "version_url": "https://github.com/zedeus/nitter/commit/c6edec0",
+            "healthy": true,
+            "last_healthy": "2024-05-30T21:02:49Z",
+            "is_upstream": true,
+            "is_latest_version": true,
+            "is_bad_host": false,
+            "country": "\ud83c\uddfa\ud83c\uddf8",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    true
+                ],
+                [
+                    "2024.05.30 16:00",
+                    true
+                ],
+                [
+                    "2024.05.30 16:15",
+                    true
+                ],
+                [
+                    "2024.05.30 16:30",
+                    true
+                ],
+                [
+                    "2024.05.30 16:45",
+                    true
+                ],
+                [
+                    "2024.05.30 17:01",
+                    true
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    true
+                ],
+                [
+                    "2024.05.30 17:46",
+                    true
+                ],
+                [
+                    "2024.05.30 18:01",
+                    true
+                ],
+                [
+                    "2024.05.30 18:16",
+                    true
+                ],
+                [
+                    "2024.05.30 18:31",
+                    true
+                ],
+                [
+                    "2024.05.30 18:46",
+                    true
+                ],
+                [
+                    "2024.05.30 19:01",
+                    true
+                ],
+                [
+                    "2024.05.30 19:17",
+                    true
+                ],
+                [
+                    "2024.05.30 19:32",
+                    true
+                ],
+                [
+                    "2024.05.30 19:47",
+                    true
+                ],
+                [
+                    "2024.05.30 20:02",
+                    true
+                ],
+                [
+                    "2024.05.30 20:17",
+                    true
+                ],
+                [
+                    "2024.05.30 20:32",
+                    true
+                ],
+                [
+                    "2024.05.30 20:47",
+                    true
+                ],
+                [
+                    "2024.05.30 21:02",
+                    true
+                ]
+            ],
+            "healthy_percentage_overall": 71,
+            "connectivity": "IPv4",
+            "__show_last_seen": false
+        },
+        {
+            "url": "https://xcancel.com",
+            "domain": "xcancel.com",
+            "points": 59,
+            "rss": true,
+            "recent_pings": [
+                667,
+                687,
+                663,
+                663,
+                701,
+                694,
+                631,
+                707,
+                665,
+                667,
+                678,
+                698
+            ],
+            "ping_max": 707,
+            "ping_min": 631,
+            "ping_avg": 676,
+            "version": "2024.05.26-dadd33b",
+            "version_url": "https://github.com/unixfox/nitter-fork/commit/dadd33b",
+            "healthy": true,
+            "last_healthy": "2024-05-30T21:02:49Z",
+            "is_upstream": false,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddfa\ud83c\uddf8",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    true
+                ],
+                [
+                    "2024.05.30 16:00",
+                    true
+                ],
+                [
+                    "2024.05.30 16:15",
+                    true
+                ],
+                [
+                    "2024.05.30 16:30",
+                    true
+                ],
+                [
+                    "2024.05.30 16:45",
+                    true
+                ],
+                [
+                    "2024.05.30 17:01",
+                    true
+                ],
+                [
+                    "2024.05.30 17:16",
+                    true
+                ],
+                [
+                    "2024.05.30 17:31",
+                    true
+                ],
+                [
+                    "2024.05.30 17:46",
+                    true
+                ],
+                [
+                    "2024.05.30 18:01",
+                    true
+                ],
+                [
+                    "2024.05.30 18:16",
+                    true
+                ],
+                [
+                    "2024.05.30 18:31",
+                    true
+                ],
+                [
+                    "2024.05.30 18:46",
+                    true
+                ],
+                [
+                    "2024.05.30 19:01",
+                    true
+                ],
+                [
+                    "2024.05.30 19:17",
+                    true
+                ],
+                [
+                    "2024.05.30 19:32",
+                    true
+                ],
+                [
+                    "2024.05.30 19:47",
+                    true
+                ],
+                [
+                    "2024.05.30 20:02",
+                    true
+                ],
+                [
+                    "2024.05.30 20:17",
+                    true
+                ],
+                [
+                    "2024.05.30 20:32",
+                    true
+                ],
+                [
+                    "2024.05.30 20:47",
+                    true
+                ],
+                [
+                    "2024.05.30 21:02",
+                    true
+                ]
+            ],
+            "healthy_percentage_overall": 99,
+            "connectivity": "All",
+            "__show_last_seen": false
+        },
+        {
+            "url": "https://nitter.kavin.rocks",
+            "domain": "nitter.kavin.rocks",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.08.08-d7ca353",
+            "version_url": "https://github.com/zedeus/nitter/commit/d7ca353",
+            "healthy": false,
+            "last_healthy": "2024-04-15T17:59:02Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddee\ud83c\uddf3",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 13,
+            "connectivity": "All",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.bird.froth.zone",
+            "domain": "nitter.bird.froth.zone",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.08.08-d7ca353",
+            "version_url": "https://github.com/zedeus/nitter/commit/d7ca353",
+            "healthy": false,
+            "last_healthy": "2024-04-15T17:59:02Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\udde8\ud83c\udde6",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 14,
+            "connectivity": "All",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.lunar.icu",
+            "domain": "nitter.lunar.icu",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.08.08-d7ca353",
+            "version_url": "https://github.com/zedeus/nitter/commit/d7ca353",
+            "healthy": false,
+            "last_healthy": "2024-04-15T17:59:02Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\udde9\ud83c\uddea",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 10,
+            "connectivity": "All",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://t.com.sb",
+            "domain": "t.com.sb",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.08.08-d7ca353",
+            "version_url": "https://github.com/zedeus/nitter/commit/d7ca353",
+            "healthy": false,
+            "last_healthy": "2024-04-15T17:59:02Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddea\ud83c\uddea",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 14,
+            "connectivity": "All",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.tiekoetter.com",
+            "domain": "nitter.tiekoetter.com",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.10.31-b62d73d",
+            "version_url": "https://github.com/zedeus/nitter/commit/b62d73d",
+            "healthy": false,
+            "last_healthy": "2024-04-15T17:59:02Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\udde9\ud83c\uddea",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 13,
+            "connectivity": "All",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://bird.habedieeh.re",
+            "domain": "bird.habedieeh.re",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.08.08-d7ca353",
+            "version_url": "https://github.com/zedeus/nitter/commit/d7ca353",
+            "healthy": false,
+            "last_healthy": "2024-04-15T17:59:02Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\udde8\ud83c\udde6",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 17,
+            "connectivity": "IPv4",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.qwik.space",
+            "domain": "nitter.qwik.space",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.08.08-d7ca353",
+            "version_url": "https://github.com/zedeus/nitter/commit/d7ca353",
+            "healthy": false,
+            "last_healthy": "2024-04-15T17:59:02Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddf8\ud83c\uddea",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 13,
+            "connectivity": "IPv4",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.holo-mix.com",
+            "domain": "nitter.holo-mix.com",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2024.02.18-68bb64f",
+            "version_url": "https://github.com/zedeus/nitter/commit/68bb64f",
+            "healthy": false,
+            "last_healthy": "2024-03-09T13:06:35Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddef\ud83c\uddf5",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 10,
+            "connectivity": "All",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.moomoo.me",
+            "domain": "nitter.moomoo.me",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2024.02.21-cdff5e9",
+            "version_url": "https://github.com/zedeus/nitter/commit/cdff5e9",
+            "healthy": false,
+            "last_healthy": "2024-02-16T20:19:53Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddfa\ud83c\uddf8",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 33,
+            "connectivity": "IPv4",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.kylrth.com",
+            "domain": "nitter.kylrth.com",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2024.02.26-c6edec0",
+            "version_url": "https://github.com/zedeus/nitter/commit/c6edec0",
+            "healthy": false,
+            "last_healthy": "2024-02-16T08:11:52Z",
+            "is_upstream": true,
+            "is_latest_version": true,
+            "is_bad_host": false,
+            "country": "\ud83c\udde8\ud83c\udde6",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 27,
+            "connectivity": "IPv4",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.rawbit.ninja",
+            "domain": "nitter.rawbit.ninja",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": null,
+            "version_url": null,
+            "healthy": false,
+            "last_healthy": "2024-02-14T01:26:44Z",
+            "is_upstream": false,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddfa\ud83c\uddf8",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 50,
+            "connectivity": null,
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://n.populas.no",
+            "domain": "n.populas.no",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2024.01.12-52db03b",
+            "version_url": "https://github.com/zedeus/nitter/commit/52db03b",
+            "healthy": false,
+            "last_healthy": "2024-02-12T05:48:51Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": true,
+            "country": "\ud83c\uddf3\ud83c\uddf4",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 36,
+            "connectivity": "IPv4",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.io.lol",
+            "domain": "nitter.io.lol",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": "2023.09.19-537af7f",
+            "version_url": "https://github.com/zedeus/nitter/commit/537af7f",
+            "healthy": false,
+            "last_healthy": "2024-02-03T09:49:34Z",
+            "is_upstream": true,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddfa\ud83c\uddf8",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 32,
+            "connectivity": "IPv4",
+            "__show_last_seen": true
+        },
+        {
+            "url": "https://nitter.net",
+            "domain": "nitter.net",
+            "points": 0,
+            "rss": false,
+            "recent_pings": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "ping_max": null,
+            "ping_min": null,
+            "ping_avg": null,
+            "version": null,
+            "version_url": null,
+            "healthy": false,
+            "last_healthy": "2024-01-27T14:55:17Z",
+            "is_upstream": false,
+            "is_latest_version": false,
+            "is_bad_host": false,
+            "country": "\ud83c\uddf3\ud83c\uddf1",
+            "recent_checks": [
+                [
+                    "2024.05.30 15:45",
+                    false
+                ],
+                [
+                    "2024.05.30 16:00",
+                    false
+                ],
+                [
+                    "2024.05.30 16:15",
+                    false
+                ],
+                [
+                    "2024.05.30 16:30",
+                    false
+                ],
+                [
+                    "2024.05.30 16:45",
+                    false
+                ],
+                [
+                    "2024.05.30 17:01",
+                    false
+                ],
+                [
+                    "2024.05.30 17:16",
+                    false
+                ],
+                [
+                    "2024.05.30 17:31",
+                    false
+                ],
+                [
+                    "2024.05.30 17:46",
+                    false
+                ],
+                [
+                    "2024.05.30 18:01",
+                    false
+                ],
+                [
+                    "2024.05.30 18:16",
+                    false
+                ],
+                [
+                    "2024.05.30 18:31",
+                    false
+                ],
+                [
+                    "2024.05.30 18:46",
+                    false
+                ],
+                [
+                    "2024.05.30 19:01",
+                    false
+                ],
+                [
+                    "2024.05.30 19:17",
+                    false
+                ],
+                [
+                    "2024.05.30 19:32",
+                    false
+                ],
+                [
+                    "2024.05.30 19:47",
+                    false
+                ],
+                [
+                    "2024.05.30 20:02",
+                    false
+                ],
+                [
+                    "2024.05.30 20:17",
+                    false
+                ],
+                [
+                    "2024.05.30 20:32",
+                    false
+                ],
+                [
+                    "2024.05.30 20:47",
+                    false
+                ],
+                [
+                    "2024.05.30 21:02",
+                    false
+                ]
+            ],
+            "healthy_percentage_overall": 57,
+            "connectivity": null,
+            "__show_last_seen": true
+        }
+    ],
+    "last_update": "2024-05-30T21:02:51.797143916Z",
+    "latest_commit": "c6edec04901d0a37799499ed4c6921db640fb5a4"
+}
