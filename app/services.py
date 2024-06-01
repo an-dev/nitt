@@ -20,13 +20,13 @@ def host_is_valid(host_dict: dict[str, Any]) -> bool:
 
 @lru_cache(maxsize=256)
 def get_valid_instances() -> list[str]:
-    with open("host_data/hosts.json", "r+") as f:
+    with open("app/host_data/hosts.json", "r+") as f:
         host_data = json.loads(f.read())
     return [h["url"] for h in host_data["hosts"] if host_is_valid(h)]
 
 
 def get_least_requested_host() -> str:
-    with dbm.open("host_data/host_requests", "c") as db:
+    with dbm.open("app/host_data/host_requests", "c") as db:
         host_request_items = [
             {"host": k.decode(), "requests": int(db[k])} for k in db.keys()
         ]
@@ -40,5 +40,5 @@ def get_least_requested_host() -> str:
 
 
 def update_host_requests(host: str) -> None:
-    with dbm.open("host_data/host_requests", "c") as db:
+    with dbm.open("app/host_data/host_requests", "c") as db:
         db[host] = str(int(db.get(host, 0)) + 1)
