@@ -27,15 +27,16 @@ def get_valid_instances() -> list[str]:
 
 def get_least_requested_host() -> str:
     with dbm.open("app/host_data/host_requests", "c") as db:
-        host_request_items = [
-            {"host": k.decode(), "requests": int(db[k])} for k in db.keys()
+        host_request_items: list[dict[str, str]] = [
+            {"host": k.decode(), "requests": str(db[k])}  # type: ignore[union-attr]
+            for k in db.keys()
         ]
 
     if not host_request_items:
         hosts = get_valid_instances()
         host = choice(hosts)
     else:
-        host = min(host_request_items, key=lambda x: x["requests"])["host"]
+        host = min(host_request_items, key=lambda x: int(x["requests"]))["host"]
     return host
 
 

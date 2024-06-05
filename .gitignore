@@ -157,5 +157,5 @@ pyrightconfig.json
 .DS_Store
 
 # local environments
-.env.local
-.env.temp
+.envrc
+.env

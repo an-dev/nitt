@@ -9,16 +9,17 @@ repos:
       - id: check-merge-conflict # Checks for merge conflict strings
       - id: check-toml # Checks toml parse-ability
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.4.4
+    rev: v0.4.7
     hooks:
       - id: ruff
-        args: [check]
+        name: "Ruff checks and fixes"
+        args: [--fix]
       - id: ruff-format
+        name: "Ruff format"
   - repo: https://github.com/pre-commit/mirrors-mypy
     rev: v1.10.0
     hooks:
       - id: mypy
-        args: [--strict, --ignore-missing-imports]
+        name: "Check type hints"
+        types: [python]
         verbose: true
-        entry: bash -c 'poetry run mypy main.py'
-        pass_filenames: false
