@@ -21,6 +21,6 @@ async def main(request: Request) -> HTMLResponse:
         name="index.html",
         context={
             "instance_count": len(instances),
-            "domain": os.environ["SERVER_DOMAIN"],
+            "BASE_URL": os.environ["BASE_URL"],
         },
     )
